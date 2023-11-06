@@ -1,0 +1,16 @@
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\HomeworkS2.exe
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\HomeworkS2.deps.json
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\HomeworkS2.runtimeconfig.json
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\HomeworkS2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\ref\HomeworkS2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\bin\Debug\net6.0\HomeworkS2.pdb
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.GlobalUsings.g.cs
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.csproj.AssemblyReference.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.AssemblyInfoInputs.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.AssemblyInfo.cs
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.csproj.CoreCompileInputs.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\ref\HomeworkS2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.pdb
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Homeworks\HomeworkS2\obj\Debug\net6.0\HomeworkS2.genruntimeconfig.cache
